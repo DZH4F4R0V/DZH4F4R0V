@@ -1,7 +1,6 @@
-![Header](https://github.com/DZH4F4R0V/DZH4F4R0V/blob/main/assets/standard.gif)
-### About me 🧑🏻‍💻
-- I am QA engineer. I work hard on myself to become a worthy specialist. My goal is to build a successful career :fire:
-- I have read over 30 books by Stephen King :books:
+### Hi !!! 🧑🏻‍💻
+- I am QA engineer!
+- I enjoy science fiction :books:
 - I have been jibbing on a snowboard for 18 years 🏂
 - Gathered a large collection of sneakers :mans_shoe:
 - I dream of visiting Japan  🗾
