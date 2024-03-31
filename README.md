@@ -9,8 +9,6 @@
 - За 2023 прочитал 9 книг;
 - Собираю кубик Рубика за 1 минуту 😃:
 
-Мое кредо: Ученье – свет, а не ученье – тьма!
-
 
 ### Language and Tools :wrench:
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
