@@ -1,9 +1,7 @@
 ### Hi !!! 🧑🏻‍💻
 - I am QA engineer!
 - I enjoy science fiction :books:
-- I have been jibbing on a snowboard for 18 years 🏂
-- Gathered a large collection of sneakers :mans_shoe:
-- I dream of visiting Japan  🗾
+- Inception is my favourite film 🎞️:
 
 
 ### Language and Tools :wrench:
