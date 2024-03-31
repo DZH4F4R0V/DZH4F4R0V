@@ -2,8 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer)](https://git.io/typing-svg)
 
-- I enjoy science fiction :books:
-- Inception is my favourite film 🎞️:
+### About me :sunglasses:
+- В тестировании с 2020 года;
+- Актуализировал 450+ тест-кейсов;
+- Лучший фильм - "Начало" с Ди;
+- За 2023 прочитал 9 книг;
+- Собираю кубик Рубика за 1 минуту 😃:
+
+Мое кредо: Ученье – свет, а не ученье – тьма!
 
 
 ### Language and Tools :wrench:
