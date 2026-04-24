@@ -22,7 +22,7 @@
 
 ### Follow Me
 
-- [Telegram](https://t.me/DzhafarovDN)
+- [Telegram](https://t.me/J_gineer)
 
 
 ![](https://komarev.com/ghpvc/?username=DZH4F4R0V&color=dc143c)
